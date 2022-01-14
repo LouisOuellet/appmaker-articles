@@ -1,0 +1,13 @@
+{
+    "repository": {
+        "name": "appmaker-articles",
+        "branch": "dev",
+        "manifest": "\/dist\/data\/manifest.json",
+        "host": {
+            "git": "git@github.com:LouisOuellet\/appmaker-articles"
+        }
+    },
+    "name": "articles",
+    "build": 2,
+    "version": "22.01-dev"
+}
